@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
-    <StartupObject>RotateArray.RotateArray</StartupObject>
+    <StartupObject>Fibonacci.Fibonacci</StartupObject>
   </PropertyGroup>
 
 </Project>

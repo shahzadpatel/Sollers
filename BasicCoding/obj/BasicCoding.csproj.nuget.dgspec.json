@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Shahzad\\Desktop\\BasicCoding\\BasicCoding\\BasicCoding.csproj": {}
+    "C:\\Users\\Shahzad\\Desktop\\Sollers\\BasicCoding\\BasicCoding\\BasicCoding.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Shahzad\\Desktop\\BasicCoding\\BasicCoding\\BasicCoding.csproj": {
+    "C:\\Users\\Shahzad\\Desktop\\Sollers\\BasicCoding\\BasicCoding\\BasicCoding.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Shahzad\\Desktop\\BasicCoding\\BasicCoding\\BasicCoding.csproj",
+        "projectUniqueName": "C:\\Users\\Shahzad\\Desktop\\Sollers\\BasicCoding\\BasicCoding\\BasicCoding.csproj",
         "projectName": "BasicCoding",
-        "projectPath": "C:\\Users\\Shahzad\\Desktop\\BasicCoding\\BasicCoding\\BasicCoding.csproj",
+        "projectPath": "C:\\Users\\Shahzad\\Desktop\\Sollers\\BasicCoding\\BasicCoding\\BasicCoding.csproj",
         "packagesPath": "C:\\Users\\Shahzad\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Shahzad\\Desktop\\BasicCoding\\BasicCoding\\obj\\",
+        "outputPath": "C:\\Users\\Shahzad\\Desktop\\Sollers\\BasicCoding\\BasicCoding\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Shahzad\\AppData\\Roaming\\NuGet\\NuGet.Config",

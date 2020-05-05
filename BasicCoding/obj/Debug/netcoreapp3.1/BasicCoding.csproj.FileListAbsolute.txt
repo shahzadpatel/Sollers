@@ -11,3 +11,16 @@ C:\Users\Shahzad\Desktop\BasicCoding\BasicCoding\obj\Debug\netcoreapp3.1\BasicCo
 C:\Users\Shahzad\Desktop\BasicCoding\BasicCoding\obj\Debug\netcoreapp3.1\BasicCoding.pdb
 C:\Users\Shahzad\Desktop\BasicCoding\BasicCoding\obj\Debug\netcoreapp3.1\BasicCoding.genruntimeconfig.cache
 C:\Users\Shahzad\Desktop\BasicCoding\BasicCoding\obj\Debug\netcoreapp3.1\BasicCoding.csprojAssemblyReference.cache
+C:\Users\Shahzad\Desktop\Sollers\BasicCoding\BasicCoding\bin\Debug\netcoreapp3.1\BasicCoding.exe
+C:\Users\Shahzad\Desktop\Sollers\BasicCoding\BasicCoding\bin\Debug\netcoreapp3.1\BasicCoding.deps.json
+C:\Users\Shahzad\Desktop\Sollers\BasicCoding\BasicCoding\bin\Debug\netcoreapp3.1\BasicCoding.runtimeconfig.json
+C:\Users\Shahzad\Desktop\Sollers\BasicCoding\BasicCoding\bin\Debug\netcoreapp3.1\BasicCoding.runtimeconfig.dev.json
+C:\Users\Shahzad\Desktop\Sollers\BasicCoding\BasicCoding\bin\Debug\netcoreapp3.1\BasicCoding.dll
+C:\Users\Shahzad\Desktop\Sollers\BasicCoding\BasicCoding\bin\Debug\netcoreapp3.1\BasicCoding.pdb
+C:\Users\Shahzad\Desktop\Sollers\BasicCoding\BasicCoding\obj\Debug\netcoreapp3.1\BasicCoding.csprojAssemblyReference.cache
+C:\Users\Shahzad\Desktop\Sollers\BasicCoding\BasicCoding\obj\Debug\netcoreapp3.1\BasicCoding.csproj.CoreCompileInputs.cache
+C:\Users\Shahzad\Desktop\Sollers\BasicCoding\BasicCoding\obj\Debug\netcoreapp3.1\BasicCoding.AssemblyInfoInputs.cache
+C:\Users\Shahzad\Desktop\Sollers\BasicCoding\BasicCoding\obj\Debug\netcoreapp3.1\BasicCoding.AssemblyInfo.cs
+C:\Users\Shahzad\Desktop\Sollers\BasicCoding\BasicCoding\obj\Debug\netcoreapp3.1\BasicCoding.dll
+C:\Users\Shahzad\Desktop\Sollers\BasicCoding\BasicCoding\obj\Debug\netcoreapp3.1\BasicCoding.pdb
+C:\Users\Shahzad\Desktop\Sollers\BasicCoding\BasicCoding\obj\Debug\netcoreapp3.1\BasicCoding.genruntimeconfig.cache
